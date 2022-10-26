@@ -1,6 +1,9 @@
-- 👋 Hi, I’m [Paul Saunders](https://github.com/cgi-psaunders)
-- 👀 I’m interested in DevOps, Infrastructure as Code and generally automating the boring bits
-- 🌱 I’m currently learning Docker Swarm, OpenShift and some firewalling.
+![Banner images showing some abstract computer code, and the CGI logo](CGI_LinkedIn_banner_code.jpg)
+# [Paul Saunders](https://github.com/cgi-psaunders)
+## DevOps Engineer, Secure Mission Critical Solutions at CGI
+- 👀 Interested in [DevOps](https://github.com/topics/devops), [Infrastructure as Code](https://github.com/topics/infrastructure-as-code) and generally automating the boring bits.
+- 🌱 I’m currently learning [Docker Swarm](https://docs.docker.com/engine/swarm/), [OpenShift](https://docs.openshift.com/), [Proxmox](https://www.proxmox.com/) and some firewalling.
+- 🗬 I have worked in mission critical and embedded systems, I have designed datacentres, I regularly deploy VMWare and Proxmox.
 - 📫 How to reach me: p.saunders@cgi.com
 <!-- - 💞️ I’m looking to collaborate on ... -->
 
